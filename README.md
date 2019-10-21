@@ -22,4 +22,4 @@ Di langkah 6 dan 7 ini akan mengkonversikan data variable a dan b, dari yang tad
 Langkah 8 akan menjumlahkan nilai variable a dan b.
 9.	print("hasil pembagian {0}&{1}=%d".format(a,b) %(a/b))
 Langkah 9 akan membagi nilai variable a dan b.
-Tips : Gunakan '%f' atau '%s' bila hasil pembagiannya adalah angka desimal.
+Tips : Gunakan '%f' atau '%s' bila hasil pembagiannya adalah angka desimal. 
